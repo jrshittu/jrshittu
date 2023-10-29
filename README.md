@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**jrshittu/jrshittu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there 👋, I'm Zayn
 
 - 🔭 I’m currently working on ReactJS MUI Dashboard App
 - 🌱 I’m currently learning NextJS
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: jrshittu@gmail,com
 - 😄 Pronouns: He
 - ⚡ Fun fact: I'm a fake stoic who cries like a baby
--->
