@@ -7,4 +7,4 @@
 - 💬 Ask me about computing and digital making
 - 📫 How to reach me: jrshittu@gmail,com
 - 😄 Pronouns: He
-- ⚡ Fun fact: I'm a fake stoic who cries like a baby
+- ⚡ Fun fact: Cooool geee
