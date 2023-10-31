@@ -7,4 +7,4 @@
 - 💬 Ask me about computing and digital making
 - 📫 How to reach me: jrshittu@gmail,com
 - 😄 Pronouns: He
-- ⚡ Fun fact: Cooool geee
+- ⚡ Fun fact: I am hardworking asf
