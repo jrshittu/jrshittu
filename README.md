@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning NextJS
 - 👯 I’m looking to collaborate on prodigy.ng
 - 🤔 I’m looking for help with ReactJS
-- 💬 Ask me about computing and digital making
-- 📫 How to reach me: jrshittu@gmail,com
+- 💬 Ask me about teaching computing and digital making
+- 📫 How to reach me: jrshittu@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: I am hardworking asf
