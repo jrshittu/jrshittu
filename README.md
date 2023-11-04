@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Zayn
+### Hi there 👋, I'm Zayn-Abideen
 
 - 🔭 I’m currently working on RevTech.
 - 🌱 I’m currently learning NextJS
