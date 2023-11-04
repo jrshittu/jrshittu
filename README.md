@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Zayn-Abideen
 
-- 🔭 I’m currently working on RevTech.
+- 🔭 I’m currently working on React-MUI Dashboard App.
 - 🌱 I’m currently learning NextJS
 - 👯 I’m looking to collaborate on www.prodigy.ng
 - 🤔 I’m looking for help with AI and Blockchain
