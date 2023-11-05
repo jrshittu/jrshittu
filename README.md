@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Zayn-Abideen
+### Hi there 👋, I'm Zayn
 
 - 🔭 I’m currently working on React-MUI Dashboard App.
 - 🌱 I’m currently learning NextJS
