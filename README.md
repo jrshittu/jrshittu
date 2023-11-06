@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Zayn
 
-- 🔭 I’m currently working on React-MUI Dashboard App.
+- 🔭 I’m currently working on creating video tutorial series for kids.
 - 🌱 I’m currently learning NextJS
 - 👯 I’m looking to collaborate on www.prodigy.ng
 - 🤔 I’m looking for help with AI and Blockchain
