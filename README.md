@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Zayn
 
-- 🔭 I’m currently working on creating something cool with AI for Education
+- 🔭 I’m currently working on creating something Typescript, Tailwind CSS and NextJS
 - 🌱 I’m currently learning NextJS
 - 👯 I’m looking to collaborate on [www.prodigy.ng](https://ngp-jrshittu.vercel.app/index.html)
 - 🤔 I’m looking for help with AI and Blockchain
